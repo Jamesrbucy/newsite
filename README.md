@@ -1,7 +1,8 @@
 <!DOCTYPE html>
 <html>
     <head>
-            Katz
+            <!-- Katz -->
+            <link href="css/styles.css" type="text/css" rel="stylesheet" />
     </head>
     <body>
         <header>
