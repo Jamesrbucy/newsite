@@ -31,7 +31,7 @@
             </article>
             <article>
                 <h2 id="Coming and Going">Coming and Going</h2>
-                    <img id="cat" src=http://placekitten.com/g/200/300> 
+                    <img id="cat" src=13221539_838322106272144_2463853623005338305_n.jpg> 
                     <p>this cat is actually not me</p>
             </article>
             <article>
