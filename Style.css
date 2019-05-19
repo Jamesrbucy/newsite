@@ -3,26 +3,33 @@ html {
 }
 
 body{
-background-color: rgb(173, 219, 247);
+    background-color: coral;
 width: 80%;
 margin: 0 auto;
 }
-img{
-    shape-outside: circle()
+#jim{
+    height: 20%;
+    width: 100%;
+    object-position: 50% 50%;
 }
-header{
-background-color: rgb(272, 228, 121);
+#cat{
+    border-radius: 50pc;
+    justify-content: flex-end;
+    object-position: 50% 50%;
 }
-
+    h1{ 
+        background-color: rgb(98, 162, 245);
+    }
+#navlist li{
+    display: inline;
+    list-style-type: none
+}
 head {
-
 }
 nav {
-
+    align-content: center;
 }
 article{
-    
-
 }
 image { 
 height: 100;
